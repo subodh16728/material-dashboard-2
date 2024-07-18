@@ -9,7 +9,7 @@ import React from "react";
 
 const keyMetrics = () => {
   return (
-    <section className="key-metrics-section mt-10">
+    <section className="key-metrics-section mb-10">
       <div className="section-wrapper w-full flex flex-col space-y-10">
         <div className="metrics-booking w-full rounded-xl shadow-lg h-34 bg-white flex flex-col">
           <div className="first-main-container flex">

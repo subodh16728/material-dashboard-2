@@ -13,7 +13,7 @@ const Dashboard = () => {
   return (
     <>
       <div className="container px-7 pt-9">
-        <header className="w-full px-3.5">
+        <header className="w-full px-3.5 mb-10">
           <div className="header-wrapper flex flex-col space-y-3">
             <div className="navbar-header-container flex flex-col">
               <nav className="navbar">
